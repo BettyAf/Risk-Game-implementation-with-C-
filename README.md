@@ -120,9 +120,13 @@ IT demonstrateS that the Basic (undecorated) Game Statistics Observer is availab
 <li> Tournament
   
 A tournament starts with the user choosing M = 1 to 5 different maps, P = 2 to 4 different computer players strategies, G = 1 to 5 games to be played on each map, D = 10 to 50 maximum number of turns for each game. A tournament is then automatically played by playing G games on each of the M different maps between the chosen computer player strategies. In order to minimize run completion time, each game is declared a draw after D turns. Once started, the tournament plays all the games automatically without user interaction. At the end of the tournament, a report of the results should be displayed, e.g.
+
 M: Map1, Map2, Map3
+
 P: Aggressive, Benevolent, Random, Cheater.
+
 G: 4
+
 D: 30
   </ul>
   </ul>
